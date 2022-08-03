@@ -73,18 +73,20 @@ body {
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 50px;
-    margin-top: 20px;
     transition: all .5s ease;
 }
 
-.previous-works:hover  {
-    background-color: #2a607c;
-    box-shadow: #ffffff;
+.horiseon:hover  {
+    border: 1px solid black;
     opacity: .5;
 }
 
-#contact-area{
+.project1:hover{
+    border: 1px solid black;
+    opacity: .5;
+}
+
+.contact-area{
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
 }
 
